@@ -1,19 +1,19 @@
-board = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # Position 1: top left
-board [0]
+board [ ]
 # Position 2: top middle
-board [1]
+board [ ]
 # Position 3: top right
-board [2]
+board [ ]
 #Position 4: middle left
-board [3]
+board [ ]
 # Position 5: middle
-board [4]
+board [ ]
 # Position 6: middle right
-board [5]
+board [ ]
 # Position 7: bottom left
-board [6]
+board [ ]
 # Position 8: bottom middle
-board [7]
+board [ ]
 # Position 9: bottom right
-board [8]
+board [ ]
